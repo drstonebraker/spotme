@@ -4,7 +4,7 @@
 
  A mobile application where people can rent out private parking spaces, similar to AirBnb. Users searching for parking in an area can use the application to reserve available spots near them.
 
-Vist the demo page here:
+View the demo page here:
  [Live Demo](https://aldahir15.github.io/SpotMeApp/)
 
 ## Feature Demo
