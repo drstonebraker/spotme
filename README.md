@@ -11,7 +11,7 @@ View the demo page here:
 
 ### FB Login
 
-![fb_login](https://res.cloudinary.com/dekgrddbo/image/upload/v1508124220/spot_me/fb_login.gif | width=100)
+![fb_login](https://res.cloudinary.com/dekgrddbo/image/upload/v1508124220/spot_me/fb_login.gif =250x)
 
 ### Reserving a Spot
 
